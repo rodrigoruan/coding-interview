@@ -98,6 +98,7 @@ function linkedList() {
 }
 
 const list = new linkedList();
+
 list.add('JOAO');
 list.add('CARLAO DA MASSA');
 list.add('JOAOZIN');
